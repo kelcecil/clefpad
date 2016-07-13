@@ -11,6 +11,10 @@
     "clef",
     "leftpad"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kelcecil/clefpad"
+  },
   "author": "Kel Cecil",
   "license": "ISC",
   "devDependencies": {
