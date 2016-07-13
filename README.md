@@ -7,9 +7,9 @@ Installation
 
 Usage
 -----
-    > var chefpad = require('clefpad');
+    > var clefpad = require('clefpad');
     undefined
-    > chefpad('Happy Friday Everyone!', 3);
+    > clefpad('Happy Friday Everyone!', 3);
     '🎼🎼🎼Happy Friday Everyone!🎼🎼🎼'
 
 
