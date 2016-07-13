@@ -1,11 +1,21 @@
 clefpad
 =======
 
+Installation
+------------
+    npm install kelcecil/clefpad [-g]
+
+Usage
+-----
+    > var chefpad = require('clefpad');
+    undefined
+    > chefpad('Happy Friday Everyone!', 3);
+    '🎼🎼🎼Happy Friday Everyone!🎼🎼🎼'
+
+
 Description
 -----------
 Ever wanted to add treble clefs around your strings? No? ... Really? Well, here's a module in case you change your mind.
-
-
 
 License (ISC)
 -------
