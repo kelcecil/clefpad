@@ -1,9 +1,9 @@
 'use strict';
-module.exports = clefpad;
+module.exports = rclefpad;
 
-function clefpad(str, clefs) {
+function rclefpad(str, clefs) {
     for (var i = 0; i < clefs; i++) {
-      str = "🎼"+str+"🎼";
+      str = str+"🎼";
     }
     return str;
 }

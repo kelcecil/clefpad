@@ -1,24 +1,24 @@
-clefpad
+rclefpad
 =======
 
 Description
 -----------
-Ever wanted to add treble clefs around your strings? No? ... Really? Well, here's a module in case you change your mind.
+Ever wanted to add treble clefs to the right of your strings? No? ... Really? Well, here's a module in case you change your mind.
 
 Usage
 -----
-    > var clefpad = require('clefpad');
+    > var rclefpad = require('rclefpad');
     undefined
-    > clefpad('Happy Friday Everyone!', 3);
-    '🎼🎼🎼Happy Friday Everyone!🎼🎼🎼'
+    > rclefpad('Happy Friday Everyone!', 3);
+    'Happy Friday Everyone!🎼🎼🎼'
 
 Installation
 ------------
-    npm install kelcecil/clefpad [-g]
+    npm install mattnenterprise/rclefpad [-g]
 
 License (ISC)
 -------
-Copyright (c) 2016, Kel Cecil
+Copyright (c) 2016, Matt McCoy
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 

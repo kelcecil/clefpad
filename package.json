@@ -1,7 +1,7 @@
 {
-  "name": "clefpad",
+  "name": "rclefpad",
   "version": "1.0.0",
-  "description": "Ever wanted to add treble clefs to the left of your strings? No? ... Really? Well, here's a module in case you change your mind.",
+  "description": "Ever wanted to add treble clefs to the right of your strings? No? ... Really? Well, here's a module in case you change your mind.",
   "main": "index.js",
   "scripts": {
     "test": "grunt test"
@@ -9,13 +9,13 @@
   "keywords": [
     "treble",
     "clef",
-    "leftpad"
+    "rightpad"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kelcecil/clefpad"
+    "url": "https://github.com/mattnenterprise/rclefpad"
   },
-  "author": "Kel Cecil",
+  "author": "Matt McCoy",
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",
