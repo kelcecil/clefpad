@@ -1,9 +1,9 @@
 clefpad
 =======
 
-Installation
-------------
-    npm install kelcecil/clefpad [-g]
+Description
+-----------
+Ever wanted to add treble clefs around your strings? No? ... Really? Well, here's a module in case you change your mind.
 
 Usage
 -----
@@ -12,10 +12,9 @@ Usage
     > clefpad('Happy Friday Everyone!', 3);
     '🎼🎼🎼Happy Friday Everyone!🎼🎼🎼'
 
-
-Description
------------
-Ever wanted to add treble clefs around your strings? No? ... Really? Well, here's a module in case you change your mind.
+Installation
+------------
+    npm install kelcecil/clefpad [-g]
 
 License (ISC)
 -------
