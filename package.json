@@ -1,0 +1,22 @@
+{
+  "name": "clefpad",
+  "version": "1.0.0",
+  "description": "Ever wanted to add treble clefs to the left of your strings? No? ... Really? Well, here's a module in case you change your mind.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "treble",
+    "clef",
+    "leftpad"
+  ],
+  "author": "Kel Cecil",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.5.3"
+  }
+}
